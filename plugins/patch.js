@@ -315,13 +315,13 @@ ${menuThemeCommandPrefix} *ʀᴀᴍ ᴜsᴀɢᴇ:* ${formatp(os.totalmem() - os.
 ${menuThemeCommandPrefix} *ᴛɪᴍᴇ:* ${currentTime}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴇ:* ${currentDate}
 ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
-${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
-${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}  
-▱▰▱▰▱▰▱▰▱▰▱▱▰▱▱▰
-*🚩𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2🖤*
-ᴋᴇᴇᴘ ᴜsɪɴɢ ᴡᴀsɪ ᴇᴅɪᴛx
-▱▰▱▰▱▰▱▰▱▰▱▱▰▱▱▰
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
+  ▍▌▌▉▏▎▌▉▐▏
+ *𝐕𝐄𝐍𝐎𝐌-𝐌𝐃*
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ${readmore}`;
 
