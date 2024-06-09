@@ -371,7 +371,7 @@ smd({
   try {
     let _0x5ea4b8 = _0x38fb87 ? _0x38fb87 : _0x5db0de.reply_text;
     if (!_0x5ea4b8) {
-      _0x5ea4b8 = "*Uhh Dear,Please provide text*\n*Eg:- _.readmor text1 readmore text2_*";
+      _0x5ea4b8 = "*Please provide text*\n*Eg:- _.readmor text1 readmore text2_*";
     } else {
       _0x5ea4b8 += " ";
     }
@@ -396,7 +396,7 @@ cmd({
   try {
     let _0x680da4 = pmtypes.includes(_0x4e4351.mtype) ? _0x4e4351 : _0x4e4351.reply_message;
     if (!_0x680da4 || !pmtypes.includes(_0x680da4?.mtype)) {
-      return _0x4e4351.reply("*_Uhh Dear, Reply To An Image/Video!_*");
+      return _0x4e4351.reply("*Reply To An Image/Video!_*");
     }
     let _0x349452 = await _0x4e4351.bot.downloadAndSaveMediaMessage(_0x680da4);
     let _0x536aa6 = await createUrl(_0x349452);
@@ -488,8 +488,8 @@ smd({
   try {
     let {
       data: _0x44f98c
-    } = await axios.get("https://api.github.com/repos/Itxxwasi/WASI-MD-V2");
-    let _0x1c73f9 = ("\nWASI-MD-V2 AN CHUDDY BUDDY BOT FOR ENJOYMENT *" + Config.ownername + "*.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "1000+") + " forks\n  *❲❒❳ Authors:* wasi-ser\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* _https://github.com/Itxxwasi/WASI-MD-V2_\n  *❲❒❳ Scan:* _" + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
+    } = await axios.get("https://api.github.com/repos/Hammy254/VENOM-MD");
+    let _0x1c73f9 = ("\n𝐕𝐄𝐍𝐎𝐌-𝐌𝐃 𝐑𝐄𝐏𝐎, 𝐇𝐀𝐕𝐄 𝐅𝐔𝐍 𝐖𝐈𝐓𝐇 𝐓𝐇𝐄 𝐁𝐎𝐓 *" + Config.ownername + "*.\n\n  *❲❒❳ Stars:* " + (_0x44f98c?.stargazers_count || "120+") + " stars\n  *❲❒❳ Forks:* " + (_0x44f98c?.forks_count || "1000+") + " forks\n  *❲❒❳ Authors:* 𝐇𝐀𝐌𝐌𝐘\n  *❲❒❳ Created On:* " + (_0x44f98c?.created_at || "undefined") + "\n  *❲❒❳ Repo:* *_https://github.com/Hammy254/VENOM-MD_*\n   *❲❒❳ Scan:* _" + scan + "_" + (Config.caption ? "\n\n" + Config.caption : "")).trim();
     return await _0x45da98.sendUi(_0x45da98.jid, {
       caption: _0x1c73f9
     });
@@ -677,7 +677,7 @@ smd({
       if (_0x2dfb59.length < 3) {
         return;
       }
-      if (_0x2acf30.reply_text.includes("WASI-MD-V2• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[0].includes("WASI-MD-V2• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[2].includes("Msg_Id")) {
+      if (_0x2acf30.reply_text.includes("VENOM-MD• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[0].includes("VENOM-MD• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[2].includes("Msg_Id")) {
         let _0x1b0d01 = "" + _0x2dfb59[2].replace("*Msg_Id:* ", "").trim();
         let _0x2ecd2a = astro_patch_AnonyMsg[_0x1b0d01];
         if (!_0x2ecd2a) {
@@ -689,7 +689,7 @@ smd({
             if (_0x13a11c.toLowerCase().startsWith("reply")) {
               _0x2ecd2a.howmanyreply += 1;
               const _0x5a2204 = _0x2acf30.text.indexOf(",");
-              let _0x3f6b59 = "*WASI-MD-V2• ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" + _0x2ecd2a.reciever.split("@")[0] + "_*\n*_Msg_Id: " + _0x2ecd2a.id + "_*\n\n*Message:* " + _0x2acf30.text.slice(_0x5a2204 + 1).trim() + "\n\n\n\n" + Config.caption;
+              let _0x3f6b59 = "*VENOM-MD• ʏᴏᴜʀ ᴀɴᴏɴʏ-ᴍsɢ ʀᴇᴘʟʏ*\n\n*_From @" + _0x2ecd2a.reciever.split("@")[0] + "_*\n*_Msg_Id: " + _0x2ecd2a.id + "_*\n\n*Message:* " + _0x2acf30.text.slice(_0x5a2204 + 1).trim() + "\n\n\n\n" + Config.caption;
               if (_0x2ecd2a.howmanyreply >= 2) {
                 isAnnonyMsgAlive = isAnnonyMsgAlive.replace("," + _0x2acf30.sender, "");
               }
