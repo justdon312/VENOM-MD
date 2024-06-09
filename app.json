@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐕𝐄𝐍𝐎𝐌-𝐌𝐃",
+      "value": "𝐇𝐀𝐌𝐌𝐘 𝟐𝟓𝟒",
       "required": true
     },
     "CAPTION" : {
@@ -48,7 +48,7 @@
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Kenya"
+      "value": "Africa/Nairobi"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -118,7 +118,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "WASI",
+      "value": "VENOM",
       "required": false
     },
     "PACK_AUTHER": {
