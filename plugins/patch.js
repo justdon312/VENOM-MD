@@ -584,7 +584,7 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `VENOM 𝘔𝘋\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\n𝚆𝙰𝚂𝙸 𝙼𝙳 𝚅𝟸`;
+          const captionText = `VENOM 𝘔𝘋\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\nVENOM MD`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -606,13 +606,13 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `𝚆𝙰𝚂𝙸 𝙼𝙳 𝚅𝟸 \n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\n𝚆𝙰𝚂𝙸 𝙼𝙳 𝚅𝟸`;
+          const captionText = `VENOM MD \n\n*Ping:* ${pingSeconds} seconds\n\n*Fact:*\n${fact.result.fact}\n\nVENOM MD`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/5a79f943e5ef2b69dc3cd.jpg",
+            "https://telegra.ph/file/9047531e93cfe1a78a1f8.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -628,7 +628,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `VENOM-𝘔𝘋\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\n𝗕𝗬-𝗪𝗔𝗦𝗜-𝗦𝗘𝗥`;
+          const captionText = `VENOM-𝘔𝘋\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\n𝗕𝗬-𝐕𝐄𝐍𝐎𝐌-𝗦𝗘𝗥`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -679,9 +679,9 @@ smd(
       const contextInfo = {
         isForwarded: true,
         forwardingScore: 999,
-        title: "wasi MD Running Since",
+        title: "VENOM MD Running Since",
         body: message,
-        footerText: "wasi MD 2024",
+        footerText: "VENOM MD 2024",
         isSendNotificationMsg: true,
         mentionedJid: [],
       };
@@ -1099,7 +1099,7 @@ smd(
       if (!isNaN(_0x56b5d3)) {
         if (
           _0x1eb88a[_0x210c92(367)] > 30 &&
-          _0x1eb88a[1][_0x210c92(362)]("WASI-MD_FANCY_TEXT")
+          _0x1eb88a[1][_0x210c92(362)]("VENOM-MD_FANCY_TEXT")
         ) {
           var _0x7b7a13 = _0x1eb88a[_0x210c92(379)]((_0x4377cc) =>
             _0x4377cc.startsWith(_0x56b5d3 + " ")
