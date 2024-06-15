@@ -4,7 +4,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
+    <img alt="wasi" height="400" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
  
          
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐕𝐄𝐍𝐎𝐌-𝐌𝐃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐌𝐌𝐘)](https://git.io/typing-svg)
@@ -37,12 +37,12 @@ Join our WhatsApp channel for updates and discussions!
 
 2.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (ℙ𝔸𝕀ℝ𝕀ℕ𝔾)
     <br>
-<a href='https://venom-md-scanner-b5c5dcf2ece8.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://venom-pairing.onrender.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 3.𝔾𝕖𝕥 𝕊𝕖𝕤𝕤𝕚𝕠𝕟 𝕀𝔻 (𝕊ℂ𝔸ℕ ℚℝ)
     <br>
-<a href='https://venom-md-scanner-b5c5dcf2ece8.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://venom-pairing.onrender.com/Qr' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
