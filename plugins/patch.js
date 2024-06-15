@@ -188,7 +188,7 @@ smd(
           }
         }
 
-        return await message.send("`wasi-MD UPDATE WAS SUCCESSFULL ✅`");
+        return await message.send("`VENOM-MD UPDATE WAS SUCCESSFULL ✅`");
       } else {
         return await message.send(
           "*Auto Updated Failed, Unable to Download Update Please Manually Do It*"
@@ -203,7 +203,7 @@ astro_patch.smd(
   {
     cmdname: "menu",
     desc: "Help list",
-    react: "🫀",
+    react: "👻",
     desc: "To show all avaiable commands.",
     type: "user",
     filename: __filename,
@@ -315,6 +315,8 @@ ${menuThemeCommandPrefix} *ʀᴀᴍ ᴜsᴀɢᴇ:* ${formatp(os.totalmem() - os.
 ${menuThemeCommandPrefix} *ᴛɪᴍᴇ:* ${currentTime}
 ${menuThemeCommandPrefix} *ᴅᴀᴛᴇ:* ${currentDate}
 ${menuThemeCommandPrefix} *ᴄᴏᴍᴍᴀɴᴅs:* ${commands.length}
+${menuThemeCommandPrefix} *ᴜsᴀɢᴇ ᴛʀᴇɴᴅ:* ${trend_usage}
+${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}  
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
@@ -544,7 +546,7 @@ astro_patch.smd(
     const endTime = new Date().getTime();
     const pingTime = endTime - startTime;
     await context.send(
-      `*🚩....ʟʀᴛᴇɴᴄʏ....🙆🏻‍♂️.: ${pingTime} ᴍs*`,
+      `*ʟʀᴛᴇɴᴄʏ....👻.: ${pingTime} ᴍs*`,
       { edit: messageKey },
       "",
       context
@@ -565,7 +567,7 @@ smd(
       const designs = [
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d9fb019f63ef3b1d47c6e.jpg",
+            "https://telegra.ph/file/b22a62f9f9a5cf2e2970e.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -582,13 +584,13 @@ smd(
           const quoteText = `\n\n*"${quote.result.body}"*\n_- ${quote.result.author}_`;
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `𝘞𝘈𝘚𝘐 𝘔𝘋 𝘝2\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\n𝚆𝙰𝚂𝙸 𝙼𝙳 𝚅𝟸`;
+          const captionText = `VENOM 𝘔𝘋\n\n*Ping:* ${pingSeconds} seconds${quoteText}\n\n𝚆𝙰𝚂𝙸 𝙼𝙳 𝚅𝟸`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d9fb019f63ef3b1d47c6e.jpg",
+            "https://telegra.ph/file/514d8345275e46cca5d9c.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -610,7 +612,7 @@ smd(
         },
         async () => {
           const imageBuffer = await axios.get(
-            "https://telegra.ph/file/d9fb019f63ef3b1d47c6e.jpg",
+            "https://telegra.ph/file/5a79f943e5ef2b69dc3cd.jpg",
             {
               responseType: "arraybuffer",
             }
@@ -626,7 +628,7 @@ smd(
 
           const end = new Date().getTime();
           const pingSeconds = (end - start) / 1000;
-          const captionText = `𝘞𝘈𝘚𝘐-𝘔𝘋-𝘝2\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\n𝗕𝗬-𝗪𝗔𝗦𝗜-𝗦𝗘𝗥`;
+          const captionText = `VENOM-𝘔𝘋\n\n*Ping:* ${pingSeconds} seconds\n\n*Line:*\n${line.result}\n\n𝗕𝗬-𝗪𝗔𝗦𝗜-𝗦𝗘𝗥`;
 
           return { image: imageBuffer.data, caption: captionText };
         },
@@ -694,13 +696,13 @@ astro_patch.cmd({
     pattern: "list",
     desc: "list menu",
     category: "general",
-    react: "📄"
+    react: "👻"
   }, async _0x1d5ddc => {
     try {
       const {
         commands: _0x7cfe13
       } = require("../lib");
-      let _0x95885d = "\n\t*𝗪𝗔𝗦𝗜-𝗠𝗗-𝗩2-𝗖𝗠𝗗-𝗜𝗡𝗙𝗢*  \n";
+      let _0x95885d = "\n\t*𝐕𝐄𝐍𝐎𝐌-𝐌𝐃-𝗖𝗠𝗗-𝗜𝗡𝗙𝗢*  \n";
       for (let _0x2bd72c = 0; _0x2bd72c < _0x7cfe13.length; _0x2bd72c++) {
         if (_0x7cfe13[_0x2bd72c].pattern == undefined) {
           continue;
@@ -1000,7 +1002,7 @@ function _0x593b() {
     "schedule",
     "_COMMANDS*  \n┗━━━━━━━━━━━━━━━━━━━━━━━\n\n\n",
     "text",
-    "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\t𝘄𝗮𝘀𝗶-𝗠𝗱_",
+    "┏━━━━━━━━━━━━━━━━━━━━━━━\n┃\t𝐕𝐄𝐍𝐎𝐌-𝗠𝗱_",
     "2716190HSgAcg",
     "info",
     "endsWith",
@@ -1164,7 +1166,7 @@ smd(
               _0x59e793[_0x1af79d][_0x210c92(400)]((_0xf574fc) => {
                 const _0x4231a3 = _0x210c92;
                 _0x5cca14 +=
-                  "*🍁Command:* ```" +
+                  "*👻Command:* ```" +
                   _0xf574fc.command +
                   "``` " +
                   (_0xf574fc[_0x4231a3(377)]
