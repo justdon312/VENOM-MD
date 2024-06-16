@@ -336,7 +336,7 @@ smd({
     try {
       await _0xa1cfa2.send(_0x3dabe8, {
         packname: Config.packname,
-        author: "𝐖𝐀𝐒𝐈-𝐌𝐃"
+        author: "𝐕𝐄𝐍𝐎𝐌-𝐌𝐃"
       }, "sticker");
     } catch (_0x5763ea) {
       console.log("error in quotely : ", _0x5763ea);
@@ -356,14 +356,14 @@ smd({
   pattern: "fancy",
   desc: "Makes stylish/fancy given text",
   category: "converter",
-  use: "56 WASI MD V2",
+  use: "VENOM-MD",
   filename: __filename
 }, async (_0x230c03, _0x3b568a) => {
   try {
     let _0x365550 = "┏━━━━━━━━━━━━━━━━━━━━━━━━\n┃\t*𝐕𝐄𝐍𝐎𝐌-𝐌𝐃-𝐅𝐀𝐍𝐂𝐘-𝐓𝐄𝐗𝐓💬* \n┗━━━━━━━━━━━━━━━━━━━━━━━━\n\n " + (_0x3b568a ? "```🔢Reply the number you wants to select``` \n\n" : "```\t\t" + prefix + "fancy Asta(For all text)\n\t\t" + prefix + "fancy 25 Asta(For specific text)```\n\n");
     let _0x50c7d9 = parseInt(_0x3b568a);
     if (isNaN(_0x50c7d9)) {
-      let _0x4ca942 = _0x3b568a ? _0x3b568a : "Wasi";
+      let _0x4ca942 = _0x3b568a ? _0x3b568a : "venom";
       listall(_0x4ca942).forEach((_0x51f58f, _0x2be109) => {
         _0x365550 += "\n" + (_0x2be109 += 1) + " " + _0x51f58f + "\n";
       });
