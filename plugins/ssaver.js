@@ -117,12 +117,12 @@ smd({ on: "status" }, async (message, text) => {
 
 smd(
   {
-    cmdname: "wasiv2",
-    desc: "total Users Currently using asta",
+    cmdname: "venommd",
+    desc: "total Users Currently using venom",
   },
   async (message, text) => {
     try {
-      message.send(`An Estimated 120+ Users On Wasi-md-v2`.trim());
+      message.send(`An Estimated 120+ Users On venom-md`.trim());
     } catch (e) {
       console.error("Error:", e);
       message.reply(`*ERROR!* `);
