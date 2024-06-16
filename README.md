@@ -4,7 +4,7 @@
 
 <p align="center">  
   <a href="https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X">
-    <img alt="wasi" height="400" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
+    <img alt="venom" height="400" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
  
          
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐕𝐄𝐍𝐎𝐌-𝐌𝐃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐌𝐌𝐘)](https://git.io/typing-svg)
@@ -49,7 +49,7 @@ Join our WhatsApp channel for updates and discussions!
 # <a href="https://dashboard.heroku.com/new?template=https://github.com/Hammy254/VENOM-MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="(https://replit.com/github/Hammy254/VENOM-MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="https://venom-md-scanner-b5c5dcf2ece8.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="https://venom-pairing.onrender.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
 
 
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄
