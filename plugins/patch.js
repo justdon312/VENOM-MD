@@ -320,8 +320,8 @@ ${menuThemeCommandPrefix} *ᴅᴀᴛᴀʙᴀsᴇ:* ${database_info}
 ${menuThemeFooter}  
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
-  ▍▌▌▉▏▎▌▉▐▏
- *𝐕𝐄𝐍𝐎𝐌-𝐌𝐃*
+   ▍▌▌▉▏▎▌▉▐▏
+  *𝐕𝐄𝐍𝐎𝐌-𝐌𝐃*
 
 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
@@ -382,7 +382,7 @@ smd(
         _0x22514a.date +
         "\n*➮ɴᴏᴡ ᴛɪᴍᴇ :* " +
         _0x22514a.time +
-        "\n\n➮Fᴏᴜɴᴅᴇʀ- Itxxwasi Team\n➮Oᴡɴᴇʀ - " +
+        "\n\n➮Fᴏᴜɴᴅᴇʀ- Hammy254 Team\n➮Oᴡɴᴇʀ - " +
         Config.ownername +
         "\n➮Nᴜᴍ - " +
         owner.split(",")[0] +
@@ -390,7 +390,7 @@ smd(
         formatp(os.totalmem() - os.freemem()) +
         "/" +
         formatp(os.totalmem()) +
-        "\n\n *🧑‍💻 :* ᴡᴀsɪᴍᴅ-ᴠ2\n\n" +
+        "\n\n *🧑‍💻 :* venom md\n\n" +
         readmore +
         "\n╭──❰ *ALL MENU* ❱\n│🏮 Lɪꜱᴛ\n│🏮 Cᴀᴛᴇɢᴏʀʏ\n│🏮 Hᴇʟᴘ\n│🏮 Aʟɪᴠᴇ\n│🏮 Uᴘᴛɪᴍᴇ\n│🏮 Wᴇᴀᴛʜᴇʀ\n│🏮 Lɪɴᴋ\n│🏮 Cᴘᴜ\n│🏮 Rᴇᴘᴏꜱɪᴛᴏʀʏ\n╰─────────────⦁"
       ).trim();
