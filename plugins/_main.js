@@ -2,7 +2,7 @@ const util = require("util");
 const fs = require("fs-extra");
 const {
   cmd
-} = require("../lib/plugins");h
+} = require("../lib/plugins");
 const {
   formatp,
   TelegraPh,
