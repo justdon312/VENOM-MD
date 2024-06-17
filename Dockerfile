@@ -1,13 +1,13 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/Hammy254/VENOM-MD.git /root/Itxxwasi
+RUN git clone https://github.com/Hammy254/VENOM-MD.git /root/Hammy254
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/Itxxwasi/node_modules
+RUN rm -rf /root/Hammy254/node_modules
 
 # Install dependencies
-WORKDIR /root/Itxxwasi
+WORKDIR /root/Hammy254
 RUN npm install
 
 # Add additional Steps To Run...
