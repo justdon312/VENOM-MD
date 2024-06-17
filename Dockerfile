@@ -1,6 +1,6 @@
 FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/Hammy254/VENOM-MD.git /root/HAMMY254
+RUN git clone https://github.com/Hammy254/VENOM-MD.git /root/Hammy254
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
